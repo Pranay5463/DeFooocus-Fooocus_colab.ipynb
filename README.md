@@ -14,7 +14,7 @@
 
 <h2>🍰 Contribution</h2>
 
-<a href="https://github.com/Prany5463">@Pranay5463</a>
+<a href="https://github.com/Pranay5463">@Pranay5463</a>
 
 <h2>🛡️ License:</h2>
 
